@@ -1,0 +1,1 @@
+export const initialContent = '<p class="language-javascript">Escreva aqui<p/>'
